@@ -39,6 +39,6 @@
 - git commit -m "เพิ่ม Hover และ Loading Animations"
 # ขั้นตอนที่ 3: เพิ่ม Filter Animations
 - git add js/script.js
-git commot -m "เพิ่ม Filter Animations"
+- git commit -m "เพิ่ม Filter Animations"
 - git add js/script.js
-git commot -m "เชื่อมต่อ JavaScript"
+- git commit -m "เชื่อมต่อ JavaScript"
